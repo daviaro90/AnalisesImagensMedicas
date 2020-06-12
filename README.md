@@ -1,7 +1,4 @@
 # VisaoComputacional
-O que outras pessoas estão dizendo
-# VisaoComputacional
-
 <h1 align="center">Comparação de diagnóstico de Pneumonias utilizando 4 algoritmos diferentes </h1>
 
 <p align="center">
